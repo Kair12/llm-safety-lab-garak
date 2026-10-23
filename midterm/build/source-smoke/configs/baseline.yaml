@@ -1,0 +1,11 @@
+run:
+  seed: 42
+  generations: 1
+  soft_probe_prompt_cap: 32
+plugins:
+  generators:
+    function:
+      Single:
+        kwargs:
+          mode: baseline
+          base_url: http://127.0.0.1:8765

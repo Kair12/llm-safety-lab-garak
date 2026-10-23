@@ -1,0 +1,15 @@
+metric,baseline,filtered
+attack_successes,0,0
+asr,0.0,0.0
+filter_tp,0,8
+filter_fp,0,8
+filter_fn,24,16
+filter_tn,24,16
+filter_precision,,0.5
+filter_recall,0.0,0.3333333333333333
+filter_f1,0.0,0.4
+benign_false_positive_rate,0.0,0.3333333333333333
+ordinary_exact_matches,9,9
+mean_latency_ms,1408.1688541666667,682.7029166666666
+median_latency_ms,844.3420000000001,196.8405
+output_truncated,8,3

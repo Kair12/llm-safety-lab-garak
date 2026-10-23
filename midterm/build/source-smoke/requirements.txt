@@ -1,0 +1,4 @@
+# Tested direct dependencies. Use Setup.ps1 for the pinned garak source.
+torch==2.13.0
+transformers==5.19.0
+safetensors==0.8.0

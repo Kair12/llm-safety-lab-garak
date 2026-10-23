@@ -1,0 +1,5 @@
+[submodule "garak-src"]
+	path = garak-src
+	url = https://github.com/NVIDIA/garak.git
+	ignore = untracked
+

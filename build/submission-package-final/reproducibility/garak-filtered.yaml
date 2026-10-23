@@ -1,0 +1,12 @@
+system:
+  verbose: 1
+  lite: true
+
+run:
+  seed: 42
+  generations: 1
+  soft_probe_prompt_cap: 16
+
+reporting:
+  show_100_pass_modules: true
+

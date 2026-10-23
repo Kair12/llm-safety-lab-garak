@@ -1,0 +1,4 @@
+PASS invalid mode: HTTP 400
+PASS empty prompt: HTTP 400
+PASS non object JSON: HTTP 400
+PASS cross origin: HTTP 403

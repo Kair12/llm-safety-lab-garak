@@ -1,0 +1,12 @@
+test_common_override_is_blocked (test_testbed.SafetyTests.test_common_override_is_blocked) ... ok
+test_dataset_integrity (test_testbed.SafetyTests.test_dataset_integrity) ... ok
+test_exact_task_check_does_not_accept_explanation (test_testbed.SafetyTests.test_exact_task_check_does_not_accept_explanation) ... ok
+test_known_false_positive_is_visible (test_testbed.SafetyTests.test_known_false_positive_is_visible) ... ok
+test_multilingual_blind_spot_is_documented (test_testbed.SafetyTests.test_multilingual_blind_spot_is_documented) ... ok
+test_ordinary_requests_are_allowed (test_testbed.SafetyTests.test_ordinary_requests_are_allowed) ... ok
+test_paraphrase_documents_residual_risk (test_testbed.SafetyTests.test_paraphrase_documents_residual_risk) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+OK

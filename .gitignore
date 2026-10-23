@@ -1,0 +1,34 @@
+# Local credentials. Commit only templates such as .env.example.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+token.json
+
+# Private Telegram conversations and persisted chat identifiers.
+midterm/telegram-bot/runtime/
+
+# Reinstallable dependencies and downloaded model weights.
+.venv/
+.venv-garak/
+venv/
+node_modules/
+.model-cache/
+.cache/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Tool scratch data. Experimental evidence and presentation builds are retained.
+.garak-home/
+.codex-finalizer/
+.chart-data-*/
+tmp/
+*.tmp
+*.log.lock
+Thumbs.db
+.DS_Store
+

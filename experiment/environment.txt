@@ -1,0 +1,13 @@
+Operating system: Windows
+GPU: NVIDIA GeForce GTX 1660
+GPU memory: 6144 MiB
+Python: 3.12.14
+garak: 0.17.1rc1 (source display version 0.17.1.pre1)
+garak repository commit: 346497afcd86ff5ba137cfbcaaeba4e9c9f6c970
+PyTorch: 2.13.0+cu126
+CUDA available to PyTorch: yes
+Target model: Qwen/Qwen2.5-0.5B-Instruct
+Access method: local Hugging Face Pipeline
+Seed: 42
+Generations per prompt: 1
+PromptInject sample cap: 16
