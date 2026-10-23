@@ -31,12 +31,11 @@ garak-only experiment and a prompt-only mitigation pilot.
 ## Clone with the pinned garak source
 
 ```powershell
-git clone --recurse-submodules https://github.com/OWNER/llm-safety-lab-garak.git
+git clone --recurse-submodules https://github.com/Kair12/llm-safety-lab-garak.git
 cd llm-safety-lab-garak
 .\tools\Prepare-Garak.ps1
 ```
 
-Replace `OWNER` with the owner shown in this repository's URL.
 `Prepare-Garak.ps1` restores the pinned upstream source if needed and installs
 the retained project generator into that local checkout. It does not start any
 experiments or install Python packages.
